@@ -7,7 +7,7 @@ setup(
     license='MIT',
     description='A simple project description',
     long_description=open('README.md').read(),
-    install_requires=['numpy', 'altair'], 
+    install_requires=['numpy', 'torch'], 
     url='https://github.com/VladaDanilova/test-connection',
     author='Vlada Danilova',
     author_email='just.you177@gmail.com'
